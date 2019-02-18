@@ -1,0 +1,10 @@
+C:\Users\adrise.younis\source\repos\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\adrise.younis\source\repos\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\adrise.younis\source\repos\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\adrise.younis\source\repos\Demo\Demo\bin\Debug\Google.Protobuf.dll
+C:\Users\adrise.younis\source\repos\Demo\Demo\bin\Debug\Google.Protobuf.xml
+C:\Users\adrise.younis\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\adrise.younis\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\adrise.younis\source\repos\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\adrise.younis\source\repos\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\adrise.younis\source\repos\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
